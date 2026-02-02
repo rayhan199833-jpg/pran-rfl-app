@@ -1,0 +1,7 @@
+{
+  "name": "PRAN RFL Fire Inspection App",
+  "description": "Professional fire extinguisher inspection and reporting tool for PRAN RFL Group, featuring secure login, detailed inspection forms, and PDF report generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
